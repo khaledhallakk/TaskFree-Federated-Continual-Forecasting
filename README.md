@@ -83,3 +83,31 @@ CONFIG = {
     "p_offline": 0.8,
 }
 
+
+
+
+🧪 Reproducibility & Usage
+1. Clone the repository
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
+2. Install dependencies
+pip install -r requirements.txt
+3. Add the dataset
+
+Place the 12 Beijing air-quality CSV files inside:
+
+AirQuality/
+
+The notebook expects the filenames listed in AirQuality/README.md.
+
+4. Run the notebook
+
+Open and run:
+
+FLTA2026-Task-Free-Federated-Continual-Forecasting.ipynb
+
+
+
+
+
+
