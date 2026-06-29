@@ -8,9 +8,6 @@ This repository provides a reproducible notebook implementation for the conferen
 
 All experiments are performed using the **Beijing Multi-Site Air Quality Dataset**, where each monitoring station acts as an independent federated client.
 
-📄 **If you use this work in your research, please cite:**  
-Al Hallak, J. Y., *Mitigating Catastrophic Forgetting in Task-Free Federated Continual Forecasting via Two-Tier Replay under Concept Drift*, FLTA 2026. DOI/proceedings link to be added after publication.
-
 ---
 
 ## 📘 Overview
