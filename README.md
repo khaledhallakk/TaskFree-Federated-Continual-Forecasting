@@ -1,4 +1,4 @@
-# TaskFreeTimeSeriesFederatedContinualLearning
+# TaskFree-Federated-Continual-Forecasting
 
 # 🧠 Task-Free Federated Continual Forecasting with Two-Tier Replay
 
